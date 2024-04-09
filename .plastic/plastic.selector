@@ -1,0 +1,4 @@
+repository "Interstellar After Story@yntedero@cloud"
+  path "/"
+    br "/main"
+    co "/main"

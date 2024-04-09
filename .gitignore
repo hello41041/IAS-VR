@@ -61,6 +61,10 @@ sysinfo.txt
 *.unitypackage
 *.app
 
+#Additional Directories
+.idea
+.plastic
+
 # Crashlytics generated file
 crashlytics-build.properties
 
